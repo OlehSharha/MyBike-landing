@@ -1,4 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+MyBike landing was created by using HTML, CSS. It's adaptive for different devices sizes.
     - [DEMO LINK](https://OlehSharha.github.io/MyBike-landing/)
